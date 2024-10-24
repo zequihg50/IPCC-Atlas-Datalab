@@ -4,10 +4,10 @@
 
 The IPCC AR6 Interactive Atlas Datalab provides reproducibility of results of the [IPCC WGI Interactive Atlas](https://interactive-atlas.ipcc.ch).
 
-The orinial netCDF files of the Interactive Atlas dataset may be downloaded from the following repositories:
+The original netCDF files of the Interactive Atlas dataset may be downloaded from the following repositories:
 
-- Copernicus CDS - https://cds.climate.copernicus.eu/datasets/multi-origin-c3s-atlas
-- Digital CSIC - https://digital.csic.es/handle/10261/280324
+- Copernicus CDS - [https://cds.climate.copernicus.eu/datasets/multi-origin-c3s-atlas](https://cds.climate.copernicus.eu/datasets/multi-origin-c3s-atlas)
+- Digital CSIC - [https://digital.csic.es/handle/10261/280324](https://digital.csic.es/handle/10261/280324)
 
 ## Getting started
 
